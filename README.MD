@@ -51,8 +51,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/joaoestreano/joaoestreano/output/snake.svg" alt="Snake animation" />
-
-###
