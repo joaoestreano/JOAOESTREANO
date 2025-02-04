@@ -9,20 +9,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/joaoestreano/joaoestreano/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <a href="https://br.linkedin.com/in/jo%C3%A3o-victor-estreano-nogueira-vaz-silva-0ba226323"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media.tenor.com/mUQzSGuBQHAAAAAM/leonardo-dicaprio.gif"  />
 
 ###
