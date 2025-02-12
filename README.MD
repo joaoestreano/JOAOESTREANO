@@ -1,29 +1,28 @@
-<h1 align="left">Hi 👋 I'm John, wellcome to my profile!</h1>
+<h1 align="center">Hi 👋 I'm John, wellcome to my profile!</h1>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Student at Fatec Jacareí, in the first semester of DSM (Multiplatform Software Development), whose curriculum includes: Algorithm and programming logic, Database modeling, software engineering, operating systems and networks, web development and Digital Design. Sociable and collaborative, even leader of web project in university work, always seeking to solve problems in a logical and efficient way.</p>
+
+###
+
+<h2 align="left">Github Information</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaoestreano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoestreano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoestreano&radius=1&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/joao_victor.vz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:joaovictornog12@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joão-victor-estreano-nogueira-vaz-silva-0ba226323/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/IErQHBRt6GIAAAAd/leonardo-dicaprio.gif"  />
+<h2 align="left">Technologies Used</h2>
 
 ###
 
@@ -51,3 +50,31 @@
 
 ###
 
+<h2 align="left">Social Media</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="joaovictornog12@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/joao_victor.vz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/joão-victor-estreano-nogueira-vaz-silva-0ba226323/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/JoeUniverse121?t=QOg3sq-TS5EuWZlsFP-9Ug&s=09" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="171" src="https://media1.tenor.com/m/IErQHBRt6GIAAAAd/leonardo-dicaprio.gif"  />
+</div>
+
+###
