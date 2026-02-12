@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Student at Fatec Jacareí, in the Second semester of DSM (Multiplatform Software Development), whose curriculum includes: Algorithm and programming logic, Database modeling, software engineering, operating systems and networks, web development and Digital Design. Sociable and collaborative, even leader of web project in university work, always seeking to solve problems in a logical and efficient way.</p>
+<p align="left">Student at Fatec Jacareí, in the fourth semester of DSM (Multiplatform Software Development), whose curriculum includes: Algorithm and programming logic, Database modeling, software engineering, operating systems and networks, web development and Digital Design. Sociable and collaborative, even leader of web project in university work, always seeking to solve problems in a logical and efficient way.</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Aluno da Fatec Jacareí, no Segundo semestre do DSM (Desenvolvimento de Software Multiplataforma), cujo currículo inclui: Algoritmo e lógica de programação, Modelagem de Banco de Dados, Engenharia de Software, Sistemas Operacionais e Redes, Desenvolvimento Web e Design Digital. Sociável e colaborativo, líder inclusive de projeto web em trabalhos universitários, buscando sempre solucionar problemas de forma lógica e eficiente.</p>
+<p align="left">Aluno da Fatec Jacareí, no Quarto semestre do DSM (Desenvolvimento de Software Multiplataforma), cujo currículo inclui: Algoritmo e lógica de programação, Modelagem de Banco de Dados, Engenharia de Software, Sistemas Operacionais e Redes, Desenvolvimento Web e Design Digital. Sociável e colaborativo, líder inclusive de projeto web em trabalhos universitários, buscando sempre solucionar problemas de forma lógica e eficiente.</p>
 
 ###
 
@@ -90,4 +90,5 @@
 </div>
 
 ###
+
 
